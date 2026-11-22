@@ -1,0 +1,1 @@
+{ "name": "adhd-mode", "version": "0.1.0", "description": "ADHD Accessibility on/off button, separate from the output style", "types": "./types/index.d.ts" }

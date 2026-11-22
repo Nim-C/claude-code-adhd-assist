@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-adhd-assist",
+  "owner": { "name": "Nim-C" },
+  "plugins": [{ "name": "adhd-mode", "source": "./" }]
+}
