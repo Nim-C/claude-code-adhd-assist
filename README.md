@@ -6,6 +6,8 @@ It is separate from the output style, so it works on top of any style you pick.
 
 > Using the regular Claude chat (claude.ai / the Chat tab)? Get the chat version: **[claude-chat-adhd-assist](https://github.com/Nim-C/claude-chat-adhd-assist)**
 
+> Studying with NotebookLM? **[claude-notebooklm-adhd-assist](https://github.com/Nim-C/claude-notebooklm-adhd-assist)** builds on this plugin. It is listed in this repository's marketplace, so installing it installs this plugin too.
+
 ## Install
 
 At the prompt of a Claude Code session in a terminal:

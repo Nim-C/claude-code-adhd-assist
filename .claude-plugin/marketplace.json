@@ -1,5 +1,11 @@
 {
   "name": "claude-code-adhd-assist",
   "owner": { "name": "Nim-C" },
-  "plugins": [{ "name": "adhd-mode", "source": "./" }]
+  "plugins": [
+    { "name": "adhd-mode", "source": "./" },
+    {
+      "name": "notebooklm-adhd-notebook",
+      "source": { "source": "github", "repo": "Nim-C/claude-notebooklm-adhd-assist" }
+    }
+  ]
 }
